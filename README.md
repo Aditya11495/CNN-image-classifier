@@ -17,7 +17,7 @@ This project demonstrates a basic implementation of a Convolutional Neural Netwo
 # Results
 Achieved good accuracy on MNIST dataset with a simple CNN model.
 
-## 📂 Project Structure
+# Project Structure
 - notebooks/ → Jupyter Notebook
 - src/ → Model scripts
 - outputs/ → Graphs and results
