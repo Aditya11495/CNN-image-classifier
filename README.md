@@ -26,6 +26,3 @@ Achieved good accuracy on MNIST dataset with a simple CNN model.
 - Add more datasets (CIFAR-10)
 - Hyperparameter tuning
 - Model deployment
-
-## 🙌 Author
-Aditya Singh
