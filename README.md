@@ -22,7 +22,7 @@ Achieved good accuracy on MNIST dataset with a simple CNN model.
 - src/ → Model scripts
 - outputs/ → Graphs and results
 
-## 📌 Future Improvements
+# Future Improvements
 - Add more datasets (CIFAR-10)
 - Hyperparameter tuning
 - Model deployment
