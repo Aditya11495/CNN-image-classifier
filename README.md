@@ -2,7 +2,7 @@
 
 This project demonstrates a basic implementation of a Convolutional Neural Network (CNN) for image classification using the MNIST dataset.
 
-## 🚀 Features
+# Features
 - Data preprocessing
 - CNN model building
 - Model training & evaluation
