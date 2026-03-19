@@ -14,7 +14,7 @@ This project demonstrates a basic implementation of a Convolutional Neural Netwo
 - NumPy
 - Matplotlib
 
-## 📊 Results
+# Results
 Achieved good accuracy on MNIST dataset with a simple CNN model.
 
 ## 📂 Project Structure
