@@ -8,7 +8,7 @@ This project demonstrates a basic implementation of a Convolutional Neural Netwo
 - Model training & evaluation
 - Accuracy visualization
 
-## 🛠️ Tech Stack
+# Tech Stack
 - Python
 - TensorFlow / Keras
 - NumPy
